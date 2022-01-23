@@ -28,7 +28,7 @@ else{
 }else
 {
 
-       alert("looser ");
+       alert("match drew ");
        reset();
    }
   
